@@ -133,8 +133,8 @@ body{
 	width: 35%;
 	height: 100px;
 	margin-left: 32.5%;
-	position: absolute;
-	bottom: 7vh;
+	position: relative;
+	margin-top: 74vh;
 	border: none;
 	background-color: #feb6b7;
 	font-size: 50px;
