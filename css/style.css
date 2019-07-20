@@ -11,14 +11,14 @@ body{
 .sun{
 	width: 20%;
 	position: absolute;
-	top: 18vw;
+	top: 11vh;
 	right: 5%;
 	z-index: -2;
 }
 .sunShadow{
 	width: 20%;
 	position: absolute;
-	bottom: 58vw;
+	bottom: 11vh;
 	right: 5%;
 	z-index: -2;
 }
